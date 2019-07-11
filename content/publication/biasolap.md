@@ -36,7 +36,7 @@ selected = true
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["hypdb"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -45,9 +45,9 @@ tags = []
 # Links (optional).
 url_pdf = "https://www.researchgate.net/profile/Babak_Salimi5/publication/325374285_Bias_in_OLAP_Queries_Detection_Explanation_and_Removal/links/5b16e7fd0f7e9b1912b35d58/Bias-in-OLAP-Queries-Detection-Explanation-and-Removal.pdf"
 url_preprint = "https://arxiv.org/abs/1803.04562"
-url_code = "http://db.cs.washington.edu/projects/hypdb/"
+url_code = ""
 url_dataset = ""
-url_project = ""
+url_project ="http://db.cs.washington.edu/projects/hypdb/"
 url_slides = ""
 url_video = ""
 url_poster = ""

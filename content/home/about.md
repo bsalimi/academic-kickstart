@@ -27,12 +27,16 @@ weight = 5
   year = 2009
 
 
+[[education.courses]] 
+  course = "Bachlor of Software Enginerring"
+  institution = "Azad University of Mashhad"
+  year = 2006
  
 +++
 
 # Biography
 
-I am a reserach associate at [University of Washington](https://www.washington.edu/) and part of [UW Database Group](http://db.cs.washington.edu/), where I work with [Prof. Dan Suciu](https://homes.cs.washington.edu/~suciu/). I completed my Ph.D. in 2015 at  Carleton University, advised by [Prof. Leopoldo Bertossi](http://people.scs.carleton.ca/~bertossi/). 
+I am a reserach associate at [University of Washington](https://www.washington.edu/) and part of [UW Database Group](http://db.cs.washington.edu/), where I work with [Prof. Dan Suciu](https://homes.cs.washington.edu/~suciu/). I completed my Ph.D. in 2015 at  Carleton University, advised by [Prof. Leopoldo Bertossi](http://people.scs.carleton.ca/~bertossi/). I am a recipient of VLDB 2018 Best Demonstration Paper Award and SIGMOD 2019 Best Paper Award. 
 
 
-My research interests cover Knowledge Representation and Reasoning, Database Theory, Causality Theory, Statistical Inference and Data Analysis. Specifically, I would like to explore notion of causality and explanation in data exploration. In particular, the intention is to adapt methods from statistical inference to the task of explaining phenomena in databases. 
+My research interests cover Database Theory, Causal Inference, Decision Support Systems, Responsible Data Science and Data Ethics.
