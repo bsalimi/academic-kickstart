@@ -1,6 +1,6 @@
 +++
 title = "Interventional Fairness: Causal Database Repair for Algorithmic Fairness"
-date = 2019-09-05T14:33:03-07:00
+date = 2019-05-05T14:33:03-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
