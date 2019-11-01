@@ -36,7 +36,9 @@ weight = 5
 
 # Biography
 
-I am a reserach associate at [University of Washington](https://www.washington.edu/) and part of [UW Database Group](http://db.cs.washington.edu/), where I work with [Prof. Dan Suciu](https://homes.cs.washington.edu/~suciu/). I completed my Ph.D. in 2015 at  Carleton University, advised by [Prof. Leopoldo Bertossi](http://people.scs.carleton.ca/~bertossi/). I am a recipient of VLDB 2018 Best Demonstration Paper Award and SIGMOD 2019 Best Paper Award. 
+I am a reserach associate at [University of Washington](https://www.washington.edu/) and part of [UW Database Group](http://db.cs.washington.edu/), where I work with [Prof. Dan Suciu](https://homes.cs.washington.edu/~suciu/). I completed my Ph.D. in 2015 at  Carleton University, advised by [Prof. Leopoldo Bertossi](http://people.scs.carleton.ca/~bertossi/). I am a recipient of **VLDB 2018 Best Demonstration Paper Award** and **SIGMOD 2019 Best Paper Award**. 
 
 
-My research interests cover Database Theory, Causal Inference, Decision Support Systems, Responsible Data Science and Data Ethics.
+My research interests cover Data Management, Causal Inference, Decision Support Systems, Responsible Data Science and Data Ethics.
+
+**I am currently on the job market**. Please see my research and teaching statements and curriculum vitae [here](https://drive.google.com/open?id=1Vc6zZx5dV1mDt0mzuwxHfh_W20pU2oOs).

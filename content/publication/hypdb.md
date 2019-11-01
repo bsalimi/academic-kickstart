@@ -66,8 +66,6 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
-
+image = "bpaper.gif"
+caption = "Best Paper Award"
 +++
-<span style="color:red">[Best Demonstration Award]</span>

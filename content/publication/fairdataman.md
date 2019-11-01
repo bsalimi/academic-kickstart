@@ -1,10 +1,10 @@
 +++
-title = "From causes for database queries to repairs and model-based diagnosis and back"
-date = 2015-07-12T16:32:20+01:00
+title = "Data Management for Causal Algorithmic Fairness"
+date = 2019-05-05T14:33:03-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Babak Salimi, Leopoldo Bertossi"]
+authors = ["Babak Salimi, Bill Howe, Dan Suciu"]
 
 # Publication type.
 # Legend:
@@ -18,36 +18,35 @@ authors = ["Babak Salimi, Leopoldo Bertossi"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Proc. 18th International Conference on Database Theory"
-publication_short = "ICDT 2015"
+publication = "IEEE Data Engineering Bulletin"
+publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "In this work we establish and investigate connections between causes for query answers in databases, database repairs with respect to denial constraints, and consistency-based diagnosis. The first two are relatively new research areas in databases, and the third one is an established subject in knowledge representation. We show how to obtain database repairs from causes, and the other way around. Causality problems are formulated as diagnosis problems, and the diagnoses provide causes and their responsibilities. The vast body of research on database repairs can be applied to the newer problems of computing actual causes for query answers and their responsibilities. These connections are interesting per se. They also allow us, after a transition inspired by consistency-based diagnosis to computational problems on hittingsets and vertex covers in hypergraphs, to obtain several new algorithmic and complexity results for database causality."
+abstract = "Fairness is increasingly recognized as a critical component of machine learning systems. However, it is the underlying data on which these systems are trained that often reflects discrimination, suggesting a data management problem. In this paper, we first make a distinction between associational and causal definitions of fairness in the literature and argue that the concept of fairness requires causal reasoning. We then review existing works and identify future opportunities for applying data management techniques to causal algorithmic fairness."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["capuchin"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1507.00257.pdf"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "https://arxiv.org/pdf/1908.07924.pdf"
 url_code = ""
 url_dataset = ""
-url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""

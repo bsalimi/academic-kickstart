@@ -1,12 +1,12 @@
 +++
-title = "Causal Inference in Database Systems"
-date = 2018-07-13T10:12:39-07:00  # Schedule page publish date.
+title = "Data Management for Algorithmic fainress"
+date = 2018-09-06T12:39:09-07:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#time_start = 2018-010-13T10:12:39-04:10
-#time_end = 2018-010-13T10:12:39-04:20
+time_start = 2019-11-10T11:00:00-07:00
+#time_end = 2019-1-10T 12:00:00--07:00
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -17,17 +17,17 @@ event = ""
 event_url = ""
 
 # Location of event.
-location = ""
+location = "The University of Arizona, Tucson, Arizona, USA"
 
 # Is this a selected talk? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["hypdb"]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -35,8 +35,8 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_slides = "uwdb_aff2018_hypdb.pptx"
-url_video = "https://www.youtube.com/watch?v=dzZv_gqL7FE&list=PL3qnKvxiTO4R75h4Bfkm62d2QJsXhd9y_&index=3"
+url_slides = ""
+url_video = ""
 url_code = ""
 
 # Does the content use math formatting?
