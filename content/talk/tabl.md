@@ -1,5 +1,5 @@
 +++
-title = "Detecting Bias in Decision Support Queries"
+title = "Invited talk (Tableau): Detecting Bias in Decision Support Queries"
 date = 2018-09-06T12:39:09-07:00  # Schedule page publish date.
 draft = false
 

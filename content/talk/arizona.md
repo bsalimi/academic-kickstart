@@ -1,6 +1,6 @@
 +++
-title = "Data Management for Algorithmic fainress"
-date = 2018-09-06T12:39:09-07:00  # Schedule page publish date.
+title = "Invited talk (University of Arizona): Data Management for Algorithmic fairness"
+date = 2018-11-10T12:39:09-07:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
