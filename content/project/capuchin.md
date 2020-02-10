@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Algorithmic Fairness", "Causal Inference", "Databse Dependancies"]
+tags = ["Algorithmic Fairness", "Causal Inference", "Database Dependencies"]
 
 # Project summary to display on homepage.
 summary = "Capuchin develops a suit of techniques to enforce algorithmic fairness using causal inference and database dependencies."

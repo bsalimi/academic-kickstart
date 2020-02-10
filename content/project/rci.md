@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Causal Inference", "Relational Databses", "Statistical Relational Learning", "Causal Relational Learning", "Social Networks"]
+tags = ["Causal Inference", "Relational Database", "Statistical Relational Learning", "Causal Relational Learning", "Social Networks"]
 
 # Project summary to display on homepage.
 summary = ""
