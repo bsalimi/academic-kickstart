@@ -19,7 +19,7 @@ weight = 5
 
 
 <p style='text-align: justify;'>
-I am an Assistant Professor in the <a href="https://datascience.ucsd.edu/">Halıcıoğlu Data Science Institute</a> at <a href="https://ucsd.edu/">University of California, San Diego</a>, beginning from July 2020. Before joining University of California, San Diego, I was a postdoctoral research associate at <a href="https://www.washington.edu/">University of Washington</a> and part of the <a href="http://db.cs.washington.edu/">UW Database Group</a>, where I worked with <a href="https://homes.cs.washington.edu/~suciu/">Prof. Dan Suciu</a>. I completed my Ph.D. in 2015 at Carleton University, advised by <a href="http://people.scs.carleton.ca/~bertossi/">Prof. Leopoldo Bertossi</a>. </p>
+I am an Assistant Professor in the <a href="https://datascience.ucsd.edu/">Halıcıoğlu Data Science Institute</a> at <a href="https://ucsd.edu/">University of California, San Diego</a>. Before joining University of California, San Diego, I was a postdoctoral research associate at <a href="https://www.washington.edu/">University of Washington</a> and part of the <a href="http://db.cs.washington.edu/">UW Database Group</a>, where I worked with <a href="https://homes.cs.washington.edu/~suciu/">Prof. Dan Suciu</a>. I completed my Ph.D. in 2015 at Carleton University, advised by <a href="http://people.scs.carleton.ca/~bertossi/">Prof. Leopoldo Bertossi</a>. </p>
 
 
 <p style='text-align: justify;'>
