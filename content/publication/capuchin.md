@@ -23,7 +23,7 @@ publication_short = "ACM SIGMOD"
 
 # Abstract and optional shortened version.
 abstract = "Fairness is increasingly recognized as a critical component of machine learning systems. However,it is the underlying data on which these systems are trained that often reflect discrimination, sug-gesting a database repair problem. Existing treatments of fairness rely on statistical correlations thatcan be fooled by statistical anomalies, such as Simpson’s paradox.  Proposals for causality-baseddefinitions of fairness can correctly model some of these situations, but they require specification ofthe underlying causal models. In this paper, we formalize the situation as a database repair problem,proving sufficient conditions for fair classifiers in terms of admissible variables as opposed to acomplete causal model. We show that these conditions correctly capture subtle fairness violations.We then use these conditions as the basis for database repair algorithms that provide provable fairnessguarantees about classifiers trained on their training labels. We evaluate our algorithms on real data,demonstrating improvement over the state of the art on multiple fairness metrics proposed in theliterature while retaining high utility."
-abstract_short = ""
+abstract_short = "[Best Paper Award]"
 
 # Featured image thumbnail (optional)
 image_preview = ""
