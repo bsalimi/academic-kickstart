@@ -66,8 +66,8 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "bsalimi@cs.washington.edu"
-  address = "Paul G. Allen Center for Computer Science & Engineering, 185 E Stevens Way NE, Seattle, WA 98195, USA"
+  email = "bsalimi@ucsd.edu"
+  address = ""
   office_hours = ""
   phone = ""
   skype = "bk.salimi"
@@ -224,10 +224,6 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fas"
-    link = "bsalimi@cs.washington.edu"
 
   [[params.social]]
     icon = "twitter"
