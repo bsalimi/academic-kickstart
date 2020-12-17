@@ -23,7 +23,7 @@ I am an Assistant Professor in the <a href="https://datascience.ucsd.edu/">Halı
 
 
 <p style='text-align: justify;'>
-My research seeks to unify techniques from theoretical data management, causal inference and machine learning to develop a new generation of decision-support systems that help people with heterogeneous background to interpret data. My ongoing work in causal relational learning aims to develop the necessary conceptual foundations to make causal inference from complex relational data. Further, my research in the area of responsible data science develops needed foundations for ensuring fairness and accountability in the era of data-driven decisions. I am a recipient of a <b>Postdoc Research Award</b> at University of Washington, a <b>Best Demonstration Paper Award</b> at VLDB 2018, a <b>Best Paper Award</b> at SIGMOD 2019 and a <b>Research Highlight Award </b> at  SIGMOD 2020.</p>
+My research seeks to unify techniques from theoretical data management, causal inference and machine learning to develop a new generation of decision-support systems that help people with heterogeneous background to interpret data. My ongoing work in causal relational learning aims to develop the necessary conceptual foundations to make causal inference from complex relational data. Further, my research in the area of responsible data science develops needed foundations for ensuring fairness and accountability in the era of data-driven decisions. I am a recipient of a <b>Postdoc Research Award</b> at Univeirsty of Washington, a <b>Best Demonstration Paper Award</b> at VLDB 2018, a <b>Best Paper Award</b> at SIGMOD 2019 and a <b>Reserach Highlight Award </b> at  SIGMOD 2020.</p>
 
 
 <p style='text-align: justify;'><b>

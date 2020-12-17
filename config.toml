@@ -66,8 +66,8 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "bsalimi@ucsd.edu"
-  address = ""
+  email = "bsalimi@cs.washington.edu"
+  address = "Paul G. Allen Center for Computer Science & Engineering, 185 E Stevens Way NE, Seattle, WA 98195, USA"
   office_hours = ""
   phone = ""
   skype = "bk.salimi"
@@ -224,6 +224,10 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fas"
+    link = "bsalimi@cs.washington.edu"
 
   [[params.social]]
     icon = "twitter"
@@ -267,10 +271,10 @@ enableGitInfo = false
   
   
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
+[[menu.main]]
+  name = "Teaching"
+  url = "/teaching"
+  weight = 3
 
 
 [[menu.main]]
@@ -279,15 +283,10 @@ enableGitInfo = false
   weight = 4
   
 
-[[main]]
-  name = "Teaching"
-  url = "teaching/"
-  weight = 6
-
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
