@@ -27,6 +27,7 @@ My research seeks to unify techniques from theoretical data management, causal i
 
 
 <p style='text-align: justify;'><b>
-<span style="color:red">I am looking for postdoc fellows, graduate students and summer research assistants. My group has multiple openings in the research areas listed above. If you are interested, please drop me an email with a copy of your resume/CV and explain your research interests and how they relate to my work.</b></span>
+<span style="color:red">   I am looking for PhD students. My group has multiple openings in the research areas listed above. If you are interested, please drop me an email with a copy of your resume/CV and explain your research interests and how they relate to my work.</b></span>
+
 
 
