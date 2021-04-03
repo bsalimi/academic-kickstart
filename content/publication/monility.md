@@ -1,5 +1,5 @@
 +++
-title = "MobilityMirror: Bias-Adjusted Synthetic Transportation Datasets."
+title = "MobilityMirror: Bias-Adjusted Synthetic Transportation Datasets"
 date = 2018-09-06T12:20:55-07:00
 draft = false
 

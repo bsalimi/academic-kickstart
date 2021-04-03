@@ -8,7 +8,7 @@ draft = false
 tags = ["OLAP", "Decision Support Systems", "Causal Inference", "Simpson's Paradox"]
 
 # Project summary to display on homepage.
-summary = "HypDB is a system to detect, explain, and to resolve bias in decision-support queries."
+summary = "A system to detect, explain, and resolve bias in decision-support OLAP queries"
 
 # Optional image to display on homepage.
 image_preview = "hypdb.jpg"

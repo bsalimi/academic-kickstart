@@ -1,5 +1,5 @@
 +++
-title = "CaRL"
+title = "Causal Relational Learning (CaRL)"
 date = 2018-09-05T21:37:36-07:00
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 tags = ["Causal Inference", "Relational Database", "Statistical Relational Learning", "Causal Relational Learning", "Social Networks"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "A declerative approach for Causal inference from relational data."
 
 # Optional image to display on homepage.
 image_preview = "carl.jpg"

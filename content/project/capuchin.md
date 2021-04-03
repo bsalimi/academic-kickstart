@@ -8,7 +8,7 @@ draft = false
 tags = ["Algorithmic Fairness", "Causal Inference", "Database Dependencies"]
 
 # Project summary to display on homepage.
-summary = "Capuchin develops a suit of techniques to enforce algorithmic fairness using causal inference and database dependencies."
+summary = "Building fair ML algoithms using database repair."
 
 # Optional image to display on homepage.
 image_preview = "cap.jpg"
